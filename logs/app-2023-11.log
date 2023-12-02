@@ -1,0 +1,56 @@
+[WARN ] 2023-11-29 18:05:22.083 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 18:05:22.100 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 18:05:22.910 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 18:05:26.217 [main] BaseSteps -driver quit...
+[WARN ] 2023-11-29 18:05:27.483 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 18:05:27.484 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 18:05:28.252 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 18:11:24.912 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 18:11:24.929 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 18:11:25.712 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 18:11:32.313 [main] BaseSteps -driver quit...
+[WARN ] 2023-11-29 18:11:33.843 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 18:11:33.843 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 18:11:34.533 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 21:36:49.034 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 21:36:49.049 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 21:36:49.898 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 21:36:53.331 [main] BaseSteps -driver quit...
+[WARN ] 2023-11-29 21:36:55.097 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 21:36:55.098 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 21:36:55.817 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 22:14:00.027 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 22:14:00.049 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 22:14:00.757 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 22:14:03.930 [main] BaseSteps -driver quit...
+[WARN ] 2023-11-29 22:14:05.079 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 22:14:05.080 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 22:14:05.898 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 22:24:08.461 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 22:24:08.492 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 22:24:09.362 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-29 22:24:12.779 [main] BaseSteps -driver quit...
+[WARN ] 2023-11-29 22:24:14.098 [main] BaseSteps -driver created..
+[INFO ] 2023-11-29 22:24:14.098 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-29 22:24:14.810 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-30 22:18:50.930 [main] BaseSteps -driver created..
+[INFO ] 2023-11-30 22:18:50.952 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-30 22:18:51.730 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-30 22:18:55.006 [main] BaseSteps -driver quit...
+[WARN ] 2023-11-30 22:18:56.182 [main] BaseSteps -driver created..
+[INFO ] 2023-11-30 22:18:56.185 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-30 22:18:56.953 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-30 22:22:34.152 [main] BaseSteps -driver created..
+[INFO ] 2023-11-30 22:22:34.219 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-30 22:22:35.041 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-30 22:22:39.544 [main] BaseSteps -driver quit...
+[WARN ] 2023-11-30 22:22:40.691 [main] BaseSteps -driver created..
+[INFO ] 2023-11-30 22:22:40.695 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-30 22:22:41.542 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-30 22:27:41.009 [main] BaseSteps -driver created..
+[INFO ] 2023-11-30 22:27:41.077 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-30 22:27:41.876 [main] LoginSteps -URL opened..
+[WARN ] 2023-11-30 22:27:45.544 [main] BaseSteps -driver quit...
+[WARN ] 2023-11-30 22:27:46.757 [main] BaseSteps -driver created..
+[INFO ] 2023-11-30 22:27:46.761 [main] LoginSteps -Browser launched..
+[FATAL] 2023-11-30 22:27:47.584 [main] LoginSteps -URL opened..
