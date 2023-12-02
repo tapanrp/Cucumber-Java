@@ -56,3 +56,19 @@
 [INFO ] 2023-12-02 14:11:57.517 [main] LoginSteps -User clicks login button.
 [WARN ] 2023-12-02 14:11:57.910 [main] LoginSteps -Test failed. Screenshots attaced.
 [WARN ] 2023-12-02 14:11:57.910 [main] BaseSteps -Test failed. Screenshots attaced. BaseSteps
+[WARN ] 2023-12-02 17:10:38.165 [main] BaseSteps -driver created..
+[INFO ] 2023-12-02 17:10:38.240 [main] LoginSteps -Browser launched.
+[WARN ] 2023-12-02 17:10:39.433 [main] LoginSteps -URL opened.
+[INFO ] 2023-12-02 17:10:39.742 [main] LoginSteps -User enters email and password.
+[INFO ] 2023-12-02 17:10:42.976 [main] LoginSteps -User clicks login button.
+[WARN ] 2023-12-02 17:10:43.080 [main] LoginSteps -User can view dashboard. actual title matches expected title. Test passed.
+[INFO ] 2023-12-02 17:10:44.509 [main] LoginSteps -User clicked logout.
+[WARN ] 2023-12-02 17:10:44.509 [main] BaseSteps -User clicked logout. BaseSteps
+[WARN ] 2023-12-02 17:10:44.714 [main] BaseSteps -Closing all browser. Driver quit.
+[WARN ] 2023-12-02 17:10:46.187 [main] BaseSteps -driver created..
+[INFO ] 2023-12-02 17:10:46.188 [main] LoginSteps -Browser launched.
+[WARN ] 2023-12-02 17:10:47.078 [main] LoginSteps -URL opened.
+[INFO ] 2023-12-02 17:10:47.320 [main] LoginSteps -User enters email and password.
+[INFO ] 2023-12-02 17:10:48.020 [main] LoginSteps -User clicks login button.
+[WARN ] 2023-12-02 17:10:48.372 [main] LoginSteps -Test failed. Screenshots attached.
+[WARN ] 2023-12-02 17:10:48.372 [main] BaseSteps -Test failed. Screenshots attached. BaseSteps
