@@ -1,0 +1,10 @@
+steps\LoginSteps.class
+pages\LoginPage.class
+pages\CustomerPage.class
+pages\HomePage.class
+steps\SearchSteps.class
+steps\BaseSteps.class
+steps\HomeSteps.class
+testRunner\TestRunner.class
+pages\SearchPage.class
+steps\CustomerSteps.class

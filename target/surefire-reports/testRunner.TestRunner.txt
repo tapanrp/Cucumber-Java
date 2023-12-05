@@ -1,7 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: testRunner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.688 s <<< FAILURE! - in testRunner.TestRunner
-Login into the application with valid credentials #3(Login)  Time elapsed: 3.669 s  <<< FAILURE!
-java.lang.AssertionError
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.002 s - in testRunner.TestRunner
